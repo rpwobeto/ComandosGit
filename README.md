@@ -8,7 +8,7 @@ Resumo de Comandos do GIt para Desenvolvedores
 
 
 ## Clonar uma Branch
-git clone -b <branch> --single-branch <repositorio>
+git clone -b branchEspecífica --single-branch nomeDoRepositório
 
 Substituir o <branch> pelo branch que você deseja clonar
 Substituir <repositorio> pela URL do seu repositório
